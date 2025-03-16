@@ -17,4 +17,5 @@ Power BI pour la visualisation et l’exploration des insights
 ✔️ Top acteurs et dramas les plus populaires
 
 site :https://mydramalist.com/
+lien présentation :https://www.canva.com/design/DAGh6FCOrKc/wewnZ9DBmBPWszrDK41Q5g/edit?utm_content=DAGh6FCOrKc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ![Description de l'image](data/RapportImage.png)
